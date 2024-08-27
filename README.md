@@ -1,4 +1,7 @@
 ## Hi there 👋
+- CERN summer student
+- Oxford Physics final year
+
 
 <!--
 **frastra2004/frastra2004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +17,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
